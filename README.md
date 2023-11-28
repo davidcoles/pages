@@ -5,4 +5,4 @@ GitHub pages
 
 [!Watch the video](videos/vc5-install-20231128.webm)
 
-![Watch the video](videos/vc5-install-20231128.webm)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](videos/vc5-install-20231128.webm)
